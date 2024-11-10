@@ -6,3 +6,4 @@ main.o:main.c
 
 big2.o:big2.c
 	gcc -c big2.c
+

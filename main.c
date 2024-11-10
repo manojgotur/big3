@@ -1,3 +1,3 @@
 main() {
-	biggest2()
+	biggest2();
 }
