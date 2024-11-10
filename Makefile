@@ -1,5 +1,5 @@
 ABC.exe:main.o big2.o
-	gcc -o ABC.exe main.o cal.o
+	gcc -o ABC.exe main.o big2.o
 
 main.o:main.c
 	gcc -c main.c
